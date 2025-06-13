@@ -1,0 +1,192 @@
+#titulo_tienda{
+  font-family: 'Courier New', Courier, monospace;
+}
+.cuadro-info7 {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info8 {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info9 {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info6 {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info5 {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info4 {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info3 {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+  
+}
+.cuadro-info2 {
+  border: 1px solid #333;     
+  border-radius: 0;          
+  padding: 20px;             
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin-bottom: 30px;     
+}
+
+#txt2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+#titulo {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 18px;
+}
+
+#link {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;          
+  display: inline-block;      
+  vertical-align: middle;     
+  text-decoration: none;      
+  color: #000;                
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+.filtro {
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px; 
+  box-sizing: border-box;
+}
+.filtro select {
+  border: 1px solid #333;
+  border-radius: 0;
+  padding: 10px;
+  width: 100%; /* Ocupar todo el ancho del contenedor */
+  background-color: #f9f9f9;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+}
+[class^="cuadro-info"] {
+  border: 1px solid #333;    
+  border-radius: 0;           
+  padding: 20px;              
+  width: 700px;               
+  background-color: #f9f9f9;  
+  text-align: left;           
+  box-sizing: border-box;
+  margin: 0 auto 30px auto;     
+  display: block;
+}
